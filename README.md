@@ -4,7 +4,7 @@
 - 🌱 What I'm Learning: NodeJS, React
 - 📫 How To Reach Me: bradyliam00@gmail.com
 <h2>Certificates</h2>
- <img src="https://images.credly.com/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="Certiport IT Specialist Certification" width="100" height="100">
+ <img src="https://images.credly.com/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" width="100" height="100">
 
 
 <!---
