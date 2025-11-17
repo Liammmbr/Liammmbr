@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liammmbr
-- ⚡ About Me: I am a senior in highschool looking to major in mechanical engineering
+- ⚡ About Me: I am a first year student at UGA majoring in mechanical engineering
 - 🎯 Skills: Java, Python, TypeScript, JavaScript, CSharp, HTML, CSS, Unity
 - 🌱 What I'm Learning: NodeJS, React
 - 🚧 What I'm Working On: Full stack custom calendar using NodeJS and React
