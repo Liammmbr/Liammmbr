@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liammmbr
 - ⚡ About Me: I am a second year student at UGA majoring in electrical engineering
 - 🎯 Skills: Java, Python, TypeScript, JavaScript, CSharp, HTML, CSS, Unity
-- 🌱 What I'm Learning: NodeJS, React
+- 🌱 What I'm Learning: C++ and embedded systems
 - 🚧 What I'm Working On: Building a custom ESP32-S3 OBD-II vehicle telemetry display using C++ and CAN bus communication to monitor real-time vehicle data.
 - 📫 How To Reach Me: bradyliam00@gmail.com
 <h2>Certificates</h2>
